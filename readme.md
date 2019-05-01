@@ -38,4 +38,4 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Build
 
 - Modify keyboards/preonic/keymaps/custom/keymaps.c
-- make `preonic:custom:dfu-utils`
+- make `preonic:custom:dfu-util`
