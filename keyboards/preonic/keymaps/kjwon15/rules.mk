@@ -1,0 +1,4 @@
+SRC += muse.c
+KEY_LOCK_ENABLE = yes
+SLEEP_LED_ENABLE = no
+VELOCIKEY_ENABLE = yes
